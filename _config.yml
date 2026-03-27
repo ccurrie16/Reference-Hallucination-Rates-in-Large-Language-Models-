@@ -1,1 +1,3 @@
 theme: minima
+title: LLM Hallucination Study
+description: A project comparing reference hallucination rates among GPT-4, Claude, and Gemini.
