@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Reference Hallucination Rates in Large Language Models
 ---
 
 ## Overview
