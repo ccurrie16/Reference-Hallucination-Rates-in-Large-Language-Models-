@@ -3,8 +3,6 @@ layout: home
 title: Reference Hallucination Rates in Large Language Models
 ---
 
-# Reference Hallucination Rates in Large Language Models
-
 ## Overview
 
 This project investigates reference hallucination rates across three leading LLMs:
