@@ -1,0 +1,2 @@
+# Reference-Hallucination-Rates-in-Large-Language-Models-
+In this project I will ask the leading LLMs to write short paragraphs on a wide range of topics and have them provide a specific number of citations. Each of these citations will then be verified using an academic database to determine whether it is real or not. The hallucination rate will be compared across the models, topics, and citation counts.
